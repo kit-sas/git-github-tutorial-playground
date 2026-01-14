@@ -1,5 +1,5 @@
 ## Project A
-- [ ] Task
+- [x] Task
 
 ## Project B
 - [ ] Task
