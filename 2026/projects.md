@@ -50,7 +50,7 @@
 - [ ] Task
 
 ## Project R
-- [ ] Task
+- [x] Task
 
 ## Project S
 - [ ] Task
