@@ -74,4 +74,4 @@
 - [ ] Task
 
 ## Project Z
-- [ ] Task
+- [x] Task
