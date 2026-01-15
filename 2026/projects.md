@@ -2,7 +2,7 @@
 - [x] Task
 
 ## Project B
-- [ ] Task
+- [x] Task
 
 ## Project C
 - [ ] Task
