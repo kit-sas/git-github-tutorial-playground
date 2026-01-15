@@ -68,7 +68,7 @@
 - [ ] Task
 
 ## Project X
-- [ ] Task
+- [x] Task
 
 ## Project Y
 - [ ] Task
