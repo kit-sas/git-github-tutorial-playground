@@ -38,7 +38,7 @@
 - [ ] Task
 
 ## Project N
-- [ ] Task
+- [x] Task
 
 ## Project O
 - [ ] Task
