@@ -11,7 +11,7 @@
 - [x] Task
 
 ## Project E
-- [ ] Task
+- [x] Task
 
 ## Project F
 - [ ] Task
