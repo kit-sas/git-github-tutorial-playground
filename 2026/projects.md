@@ -5,7 +5,7 @@
 - [x] Task
 
 ## Project C
-- [ ] Task
+- [x] Task
 
 ## Project D
 - [ ] Task
