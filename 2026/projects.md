@@ -8,7 +8,7 @@
 - [x] Task
 
 ## Project D
-- [ ] Task
+- [x] Task
 
 ## Project E
 - [ ] Task
